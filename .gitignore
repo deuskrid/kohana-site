@@ -1,2 +1,26 @@
+# Kohana files
 application/cache/*
 application/logs/*
+modules/
+system/
+build.xml
+composer.json
+.htaccess
+index.php
+install.php
+
+# Mac OS X hidden files
+.DS_Store
+
+# Vim swap files
+.*.sw?
+
+# Pow and Powder config
+/.pow*
+
+# RVM and rbenv
+/.rvmrc
+/.rbenv-version
+
+# Bundler binstubs
+/bin/
