@@ -9,10 +9,6 @@ composer.json
 index.php
 install.php
 
-#JetBrains
-.idea/workspace.xml
-.idea/tasks.xml
-
 # Mac OS X hidden files
 .DS_Store
 
@@ -28,3 +24,7 @@ install.php
 
 # Bundler binstubs
 /bin/
+
+#JetBrains
+.idea/workspace.xml
+.idea/tasks.xml

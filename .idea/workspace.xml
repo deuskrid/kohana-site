@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d4c2aee-e413-407d-8f5f-12e80c76be09" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/classes/Controller/Template/Extended.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/classes/Controller/Foo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/krid.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/templates/main.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/classes/Controller/Site.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/classes/Controller/Welcome.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/bootstrap.php" afterPath="$PROJECT_DIR$/application/bootstrap.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="kohana-site.iws" />
@@ -35,10 +27,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="9" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
+            <state line="30" column="0" selection-start="334" selection-end="334" vertical-scroll-proportion="0.650289" vertical-offset="0" max-vertical-offset="692">
               <folding />
             </state>
           </provider>
@@ -47,16 +39,16 @@
       <file leaf-file-name="Extended.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/classes/Controller/Template/Extended.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="76" column="13" selection-start="3158" selection-end="3158" vertical-scroll-proportion="-14.166667" vertical-offset="800" max-vertical-offset="1455">
+            <state line="76" column="13" selection-start="3158" selection-end="3158" vertical-scroll-proportion="0.0" vertical-offset="800" max-vertical-offset="1455">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="70" selection-start="135" selection-end="135" vertical-scroll-proportion="0.06746627" vertical-offset="0" max-vertical-offset="667">
+            <state line="4" column="24" selection-start="114" selection-end="114" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
               <folding />
             </state>
           </provider>
@@ -68,7 +60,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="420">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
               <folding />
             </state>
           </provider>
@@ -77,7 +69,7 @@
       <file leaf-file-name="Template.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/system/classes/Controller/Template.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="55" selection-start="117" selection-end="117" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="135">
+            <state line="2" column="55" selection-start="117" selection-end="117" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="135">
               <folding />
             </state>
           </provider>
@@ -86,7 +78,7 @@
       <file leaf-file-name="Template.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/system/classes/Kohana/Controller/Template.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="26" selection-start="172" selection-end="197" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="840">
+            <state line="6" column="26" selection-start="172" selection-end="197" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="840">
               <folding />
             </state>
           </provider>
@@ -95,7 +87,7 @@
       <file leaf-file-name="Foo.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/classes/Controller/Foo.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="7" selection-start="782" selection-end="782" vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="780">
+            <state line="17" column="7" selection-start="782" selection-end="782" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="780">
               <folding />
             </state>
           </provider>
@@ -104,7 +96,7 @@
       <file leaf-file-name="main.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/views/templates/main.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="16" selection-start="46" selection-end="46" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="240">
+            <state line="3" column="16" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="240">
               <folding />
             </state>
           </provider>
@@ -123,13 +115,13 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/application/bootstrap.php" />
         <option value="$PROJECT_DIR$/application/classes/Controller/Site.php" />
         <option value="$PROJECT_DIR$/application/classes/Controller/Foo.php" />
         <option value="$PROJECT_DIR$/application/views/templates/main.php" />
         <option value="$PROJECT_DIR$/application/classes/Controller/Template/Extended.php" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -375,20 +367,20 @@
     <frame x="0" y="23" width="1440" height="810" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" x="100" y="123" width="1240" height="610" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32777777" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3263889" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32729805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25679544" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26037195" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32729805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="100" y="123" width="1240" height="610" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -400,6 +392,7 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.gitignore" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USERS">
@@ -420,6 +413,65 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="9" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="525">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/classes/Controller/Template/Extended.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="13" selection-start="3158" selection-end="3158" vertical-scroll-proportion="0.0" vertical-offset="800" max-vertical-offset="1455">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="7" selection-start="103" selection-end="103" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/classes/Controller/Template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="55" selection-start="117" selection-end="117" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="135">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/classes/Kohana/Controller/Template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="26" selection-start="172" selection-end="197" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="840">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/classes/Controller/Foo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="7" selection-start="782" selection-end="782" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="780">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/templates/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="16" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="240">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="455" />
@@ -434,28 +486,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/system/classes/Kohana/I18n.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="145" column="6" selection-start="3514" selection-end="3514" vertical-scroll-proportion="0.39371258" vertical-offset="1912" max-vertical-offset="2580">
-          <folding />
-        </state>
+        <state line="145" column="6" selection-start="3514" selection-end="3514" vertical-scroll-proportion="0.39371258" vertical-offset="1912" max-vertical-offset="2580" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/bootstrap.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="3" selection-start="1838" selection-end="1838" vertical-scroll-proportion="-0.97604793" vertical-offset="1687" max-vertical-offset="2355">
-          <folding />
-        </state>
+        <state line="69" column="3" selection-start="1838" selection-end="1838" vertical-scroll-proportion="-0.97604793" vertical-offset="1687" max-vertical-offset="2355" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/system/classes/Kohana/Controller.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="98" column="20" selection-start="2760" selection-end="2760" vertical-scroll-proportion="0.3443114" vertical-offset="1240" max-vertical-offset="2265">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="9" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
           <folding />
         </state>
       </provider>
@@ -469,35 +510,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/classes/Controller/Foo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="7" selection-start="782" selection-end="782" vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="780">
+        <state line="17" column="7" selection-start="782" selection-end="782" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="780">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/views/templates/main.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="16" selection-start="46" selection-end="46" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="240">
+        <state line="3" column="16" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="240">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/system/classes/Kohana/Controller/Template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="26" selection-start="172" selection-end="197" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="840">
+        <state line="6" column="26" selection-start="172" selection-end="197" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="840">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/system/classes/Controller/Template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="55" selection-start="117" selection-end="117" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="135">
+        <state line="2" column="55" selection-start="117" selection-end="117" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="135">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/classes/Controller/Template/Extended.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="13" selection-start="3158" selection-end="3158" vertical-scroll-proportion="-14.166667" vertical-offset="800" max-vertical-offset="1455">
+        <state line="76" column="13" selection-start="3158" selection-end="3158" vertical-scroll-proportion="0.0" vertical-offset="800" max-vertical-offset="1455">
           <folding />
         </state>
       </provider>
@@ -514,7 +555,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="70" selection-start="135" selection-end="135" vertical-scroll-proportion="0.06746627" vertical-offset="0" max-vertical-offset="667">
+        <state line="4" column="24" selection-start="114" selection-end="114" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="0" selection-start="334" selection-end="334" vertical-scroll-proportion="0.650289" vertical-offset="0" max-vertical-offset="692">
           <folding />
         </state>
       </provider>
