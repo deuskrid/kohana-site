@@ -26,5 +26,4 @@ install.php
 /bin/
 
 #JetBrains
-.idea/workspace.xml
-.idea/tasks.xml
+.idea/
